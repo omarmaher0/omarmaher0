@@ -14,8 +14,8 @@
 - 📊 I'm a Marketing data scientist
 - 👨🏻‍💻 As a CS student, I'm constantly learning and exploring new technologies.
 - 🧠 I have some soft skills such as Time management, searching, and talking with people.
-- 💪 Fun Fact: I'm enjoying taking care of my body in training or eating healthy food.
 - 💬 Ask me about my experience with Python, Power BI, and SQL, or anything related to data scientist.
+- 💪 Fun Fact: I'm enjoying taking care of my body in training or eating healthy food.
 - 👨‍💻 Check out my portfolio at https://omarmaher0.github.io/omarmaherr/ to see some of the projects I've worked on.
 
 
