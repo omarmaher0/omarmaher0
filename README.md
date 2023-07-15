@@ -2,8 +2,8 @@
 <img width="250" align="right" src="https://indoanalytica.com/static/images/data-science-2.gif">
 
 <h3 align="center">
-  Welcome to my profile
-  <img src="[https://cdn4.iconfinder.com/data/icons/big-data-analytics-volume-1/64/business-intelligent-512.png](https://scitechdaily.com/images/3D-Brain-Illustration.gif)" width="28">
+  Welcome to Omar Maher's profile!
+  <img src="https://cdn-icons-png.flaticon.com/512/2821/2821637.png" width="28">
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
