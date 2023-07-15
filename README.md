@@ -2,7 +2,7 @@
 <img width="250" align="right" src="https://indoanalytica.com/static/images/data-science-2.gif">
 
 <h3 align="center">
-  Welcome to my graduation project
+  Welcome to my profile
   <img src="[https://cdn4.iconfinder.com/data/icons/big-data-analytics-volume-1/64/business-intelligent-512.png](https://scitechdaily.com/images/3D-Brain-Illustration.gif)" width="28">
 </h3>
 
