@@ -33,9 +33,9 @@
 ![Natural Language Processing](https://img.shields.io/badge/-NLP-05122A?style=flat&logo=NLP)&nbsp;
 ![Data Visualization](https://img.shields.io/badge/-Visualization-05122A?style=flat&logo=PowerBI)&nbsp;
 ![Docker](https://img.shields.io/badge/-ML-05122A?style=flat&logo=Docker)&nbsp;
-![Apache Airflow](https://img.shields.io/badge/-DL-05122A?style=flat&logo=Apache Airflow)&nbsp;
-![spark](https://img.shields.io/badge/-ML-05122A?style=flat&logo=Apache Spark)&nbsp;
-![Apache Hive](https://img.shields.io/badge/-DL-05122A?style=flat&logo=Apache Hive)&nbsp;
+![Apache Airflow](https://img.shields.io/badge/-DL-05122A?style=flat&logo=Apache_Airflow)&nbsp;
+![spark](https://img.shields.io/badge/-ML-05122A?style=flat&logo=Apache_Spark)&nbsp;
+![Apache Hive](https://img.shields.io/badge/-DL-05122A?style=flat&logo=Apache_Hive)&nbsp;
 ![ETL](https://img.shields.io/badge/-DL-05122A?style=flat&logo=ETL)&nbsp;
 ![DWH](https://img.shields.io/badge/-DL-05122A?style=flat&logo=DWH)&nbsp;
 ![webscrapping](https://img.shields.io/badge/-DL-05122A?style=flat&logo=Webscrapping)&nbsp;
