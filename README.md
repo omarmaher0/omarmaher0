@@ -35,7 +35,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
 ![Apache Airflow](https://img.shields.io/badge/-Airflow-05122A?style=flat&logo=Apache_Airflow)&nbsp;
 ![spark](https://img.shields.io/badge/-Spark-05122A?style=flat&logo=Apache_Spark)&nbsp;
-![Apache Hive](https://img.shields.io/badge/--Hive-05122A?style=flat&logo=Apache_Hive)&nbsp;
+![Apache Hive](https://img.shields.io/badge/-Hive-05122A?style=flat&logo=Apache_Hive)&nbsp;
 ![ETL](https://img.shields.io/badge/-ETL-05122A?style=flat&logo=ETL)&nbsp;
 ![DWH](https://img.shields.io/badge/-DWH-05122A?style=flat&logo=DWH)&nbsp;
 ![webscrapping](https://img.shields.io/badge/-webscrapping-05122A?style=flat&logo=Webscrapping)&nbsp;
