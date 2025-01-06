@@ -24,14 +24,23 @@
 <a href="https://www.linkedin.com/in/omarmaher0" target="_blank"><img src="https://img.shields.io/badge/-Omar%20Maher-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Skills
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
-![MYSQL](https://img.shields.io/badge/-MYSQL-05122A?style=flat&logo=MYSQL)&nbsp;
+![SQL](https://img.shields.io/badge/-MYSQL-05122A?style=flat&logo=SQL)&nbsp;
+![Bash](https://img.shields.io/badge/-DL-05122A?style=flat&logo=Bash)&nbsp;
+![C++](https://img.shields.io/badge/-DL-05122A?style=flat&logo=C++)&nbsp;
 ![Machine Learning](https://img.shields.io/badge/-ML-05122A?style=flat&logo=ML)&nbsp;
 ![Deep Learning](https://img.shields.io/badge/-DL-05122A?style=flat&logo=DL)&nbsp;
 ![Natural Language Processing](https://img.shields.io/badge/-NLP-05122A?style=flat&logo=NLP)&nbsp;
-![Data Visualization](https://img.shields.io/badge/-Visualization-05122A?style=flat&logo=Visualization)&nbsp;
+![Data Visualization](https://img.shields.io/badge/-Visualization-05122A?style=flat&logo=PowerBI)&nbsp;
+![Docker](https://img.shields.io/badge/-ML-05122A?style=flat&logo=Docker)&nbsp;
+![Apache Airflow](https://img.shields.io/badge/-DL-05122A?style=flat&logo=Apache Airflow)&nbsp;
+![spark](https://img.shields.io/badge/-ML-05122A?style=flat&logo=Apache Spark)&nbsp;
+![Apache Hive](https://img.shields.io/badge/-DL-05122A?style=flat&logo=Apache Hive)&nbsp;
+![ETL](https://img.shields.io/badge/-DL-05122A?style=flat&logo=ETL)&nbsp;
+![DWH](https://img.shields.io/badge/-DL-05122A?style=flat&logo=DWH)&nbsp;
+![webscrapping](https://img.shields.io/badge/-DL-05122A?style=flat&logo=Webscrapping)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 
 
