@@ -32,13 +32,13 @@
 ![Deep Learning](https://img.shields.io/badge/-DL-05122A?style=flat&logo=DL)&nbsp;
 ![Natural Language Processing](https://img.shields.io/badge/-NLP-05122A?style=flat&logo=NLP)&nbsp;
 ![Data Visualization](https://img.shields.io/badge/-Visualization-05122A?style=flat&logo=PowerBI)&nbsp;
-![Docker](https://img.shields.io/badge/-ML-05122A?style=flat&logo=Docker)&nbsp;
-![Apache Airflow](https://img.shields.io/badge/-DL-05122A?style=flat&logo=Apache_Airflow)&nbsp;
-![spark](https://img.shields.io/badge/-ML-05122A?style=flat&logo=Apache_Spark)&nbsp;
-![Apache Hive](https://img.shields.io/badge/-DL-05122A?style=flat&logo=Apache_Hive)&nbsp;
-![ETL](https://img.shields.io/badge/-DL-05122A?style=flat&logo=ETL)&nbsp;
-![DWH](https://img.shields.io/badge/-DL-05122A?style=flat&logo=DWH)&nbsp;
-![webscrapping](https://img.shields.io/badge/-DL-05122A?style=flat&logo=Webscrapping)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
+![Apache Airflow](https://img.shields.io/badge/-Airflow-05122A?style=flat&logo=Apache_Airflow)&nbsp;
+![spark](https://img.shields.io/badge/-Spark-05122A?style=flat&logo=Apache_Spark)&nbsp;
+![Apache Hive](https://img.shields.io/badge/--Hive-05122A?style=flat&logo=Apache_Hive)&nbsp;
+![ETL](https://img.shields.io/badge/-ETL-05122A?style=flat&logo=ETL)&nbsp;
+![DWH](https://img.shields.io/badge/-DWH-05122A?style=flat&logo=DWH)&nbsp;
+![webscrapping](https://img.shields.io/badge/-webscrapping-05122A?style=flat&logo=Webscrapping)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
