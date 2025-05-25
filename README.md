@@ -2,7 +2,7 @@
 <img width="250" align="right" src="https://indoanalytica.com/static/images/data-science-2.gif">
 
 <h3 align="center">
-  Welcome to Omar Maher's profile!
+  Welcome to Omar Oun's profile!
   <img src="https://cdn-icons-png.flaticon.com/512/2821/2821637.png" width="28">
 </h3>
 
@@ -21,7 +21,7 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/omarmaher0" target="_blank"><img src="https://img.shields.io/badge/-Omar%20Maher-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/omarmaher0" target="_blank"><img src="https://img.shields.io/badge/-Omar%20Oun-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Skills
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
