@@ -1,6 +1,5 @@
 <!-- Right-Aligned Image -->
-<img align="right" src="https://github.com/omarmaher0/omarmaher0/blob/main/man-uploading-data.png" width="250" alt="Data Engineer">
-<br><br><br><br><br><br>
+<img align="right" src="https://github.com/omarmaher0/omarmaher0/blob/main/man-uploading-data.png" width="200" alt="Data Engineer">
 <h1>Welcome to Omar Oun's Profile! ⚙️</h1>
 
 <em>Every day is a data flow ⛓️</em>
@@ -18,7 +17,7 @@
 
 💬 Ask me about:
 - PySpark, SQL, Airflow, Kafka, MongoDB, AWS
-- Building real-time and batch processing systems
+- Building real-time and batch-processing systems
 
 💪 Fun Fact: When I’m not building data pipelines, I’m training at the gym or enjoying healthy food.
 
@@ -50,12 +49,4 @@
 
 ---
 
-### 🚀 Featured Projects
-
-- 🛒 **E-commerce Orders ETL with PySpark** – end-to-end pipeline
-- 🚕 **NYC Taxi Data Analysis** – big data analysis and dashboards
-- ☁️ **AWS Glue + Athena Project** – serverless data pipeline
-
----
-
-> 📫 Ready to collaborate, contribute or build something awesome in data? Let’s connect!
+> 📫 Ready to collaborate, contribute, or build something awesome in data? Let’s connect!
