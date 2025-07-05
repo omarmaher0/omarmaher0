@@ -1,4 +1,7 @@
-<br><br><br><br><br><br><br><br>
+<!-- Spacer to push image down -->
+<br><br><br><br><br><br><br><br><br><br>
+
+<!-- Right-Aligned Image -->
 <img align="right" src="https://github.com/omarmaher0/omarmaher0/blob/main/man-uploading-data.png" width="250" alt="Data Engineer">
 
 <h1>Welcome to Omar Oun's Profile! ⚙️</h1>
