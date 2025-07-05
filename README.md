@@ -1,6 +1,6 @@
 <!-- Right-Aligned Image -->
 <img align="right" src="https://github.com/omarmaher0/omarmaher0/blob/main/man-uploading-data.png" width="200" alt="Data Engineer">
-<h1>Welcome to Omar Oun's Profile! ⚙️</h1>
+## Welcome to Omar Oun's Profile! ⚙️
 
 <em>Every day is a data flow ⛓️</em>
 
