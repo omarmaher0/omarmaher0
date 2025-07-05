@@ -1,23 +1,16 @@
-<!-- Right-Aligned Image -->
-<p align="right">
-  <img src="https://github.com/omarmaher0/omarmaher0/blob/main/man-uploading-data.png" alt="Data Engineer" width="250"/>
-</p>
+<table>
+  <tr>
+    <td>
 
-<h1 align="center">Welcome to Omar Oun's Profile! ⚙️</h1>
-
-<h3 align="center"><em>Every day is a data flow ⛓️</em></h3>
-
----
-
-💡 Discovered a passion for **data engineering** during my graduation project after encountering challenges with incomplete datasets. That experience sparked my mission: **to support data teams by building reliable and well-structured data pipelines**.
+💡 Discovered a passion for <strong>data engineering</strong> during my graduation project after encountering challenges with incomplete datasets. That experience sparked my mission: <strong>to support data teams by building reliable and well-structured data pipelines</strong>.
 
 🎓 As a CS student, I'm diving deep into the world of big data, cloud computing, and real-time processing.
 
 🔧 My work focuses on:
-- Designing & building **ETL/ELT pipelines**
-- Working with **streaming data** using Kafka
-- Leveraging **cloud tools** like AWS (Glue, Lambda, Athena, S3)
-- Managing large-scale data using **Apache Spark** and **Airflow**
+- Designing & building <strong>ETL/ELT pipelines</strong>
+- Working with <strong>streaming data</strong> using Kafka
+- Leveraging <strong>cloud tools</strong> like AWS (Glue, Lambda, Athena, S3)
+- Managing large-scale data using <strong>Apache Spark</strong> and <strong>Airflow</strong>
 
 🧠 I also have strong soft skills like problem-solving, time management, and effective communication.
 
@@ -27,32 +20,11 @@
 
 💪 Fun Fact: When I’m not building data pipelines, I’m training at the gym or enjoying healthy food.
 
-🌐 Check out my portfolio: [https://omarmaher0.github.io/omarmaherr/](https://omarmaher0.github.io/omarmaherr/)
+🌐 Check out my portfolio: <a href="https://omarmaher0.github.io/omarmaherr/">https://omarmaher0.github.io/omarmaherr/</a>
 
----
-
-### 🔗 Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/Omar%20Oun-LinkedIn-blue)](https://www.linkedin.com/in/omaroun/)
-
----
-
-### 🛠️ Tech Skills:
-
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-informational?style=flat-square&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)
-![Airflow](https://img.shields.io/badge/-Airflow-darkblue?style=flat-square&logo=apache-airflow)
-![Spark](https://img.shields.io/badge/-Spark-orange?style=flat-square&logo=apachespark)
-![Kafka](https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=apachekafka)
-![ETL](https://img.shields.io/badge/-ETL-blue?style=flat-square)
-![DWH](https://img.shields.io/badge/-DWH-gray?style=flat-square)
-![CI/CD](https://img.shields.io/badge/-CI/CD-yellow?style=flat-square)
-![AWS](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazonaws)
-![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Git](https://img.shields.io/badge/-Git-red?style=flat-square&logo=git)
-
----
-
-> 📫 Ready to collaborate, contribute or build something awesome in data? Let’s connect!
+    </td>
+    <td>
+      <img src="https://github.com/omarmaher0/omarmaher0/blob/main/man-uploading-data.png" alt="Data Engineer" width="250"/>
+    </td>
+  </tr>
+</table>
