@@ -1,3 +1,8 @@
+<!-- Right-Aligned Image -->
+<p align="right">
+  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/data_engineer_banner.png" alt="Data Engineer" width="200"/>
+</p>
+
 <h1 align="center">Welcome to Omar Oun's Profile! ⚙️</h1>
 
 <h3 align="center"><em>Every day is a data flow ⛓️</em></h3>
@@ -28,7 +33,7 @@
 
 ### 🔗 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/Omar%20Oun-LinkedIn-blue)](https://www.linkedin.com/in/YOUR-LINK)
+[![LinkedIn](https://img.shields.io/badge/Omar%20Oun-LinkedIn-blue)](https://www.linkedin.com/in/omaroun/)
 
 ---
 
@@ -41,18 +46,12 @@
 ![Spark](https://img.shields.io/badge/-Spark-orange?style=flat-square&logo=apachespark)
 ![Kafka](https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=apachekafka)
 ![ETL](https://img.shields.io/badge/-ETL-blue?style=flat-square)
+![DWH](https://img.shields.io/badge/-DWH-gray?style=flat-square)
+![CI/CD](https://img.shields.io/badge/-CI/CD-yellow?style=flat-square)
 ![AWS](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazonaws)
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Git](https://img.shields.io/badge/-Git-red?style=flat-square&logo=git)
-
----
-
-### 🚀 Featured Projects
-
-- 🛒 **E-commerce Orders ETL with PySpark** – end-to-end pipeline
-- 🚕 **NYC Taxi Data Analysis** – big data analysis and dashboards
-- ☁️ **AWS Glue + Athena Project** – serverless data pipeline
 
 ---
 
