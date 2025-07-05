@@ -1,10 +1,10 @@
 <!-- Right-Aligned Image -->
 <img align="right" src="https://github.com/omarmaher0/omarmaher0/blob/main/man-uploading-data.png" width="200" alt="Data Engineer">
-# Welcome to Omar Oun's Profile! ⚙️
-
+<p style="font-size: 28px; font-weight: bold;">Welcome to Omar Oun's Profile! ⚙️</p>
 <em>Every day is a data flow ⛓️</em>
 
-💡 Discovered a passion for **data engineering** during my graduation project after encountering challenges with incomplete datasets...
+
+💡 Discovered a passion for **Data Engineering** during my graduation project after encountering challenges with incomplete datasets...
 
 🎓 As a CS student, I'm diving deep into the world of big data, cloud computing, and real-time processing.
 
