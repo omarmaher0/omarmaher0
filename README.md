@@ -1,6 +1,6 @@
 <!-- Right-Aligned Image -->
 <p align="right">
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/data_engineer_banner.png" alt="Data Engineer" width="200"/>
+  <img src="https://cdn.dribbble.com/users/134049/screenshots/16258480/media/0d9090dd5a5359cfd0c1f0efb65330a3.png" alt="Data Engineer" width="200"/>
 </p>
 
 <h1 align="center">Welcome to Omar Oun's Profile! ⚙️</h1>
