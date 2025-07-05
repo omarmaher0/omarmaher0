@@ -1,7 +1,13 @@
 <!-- Right-Aligned Image -->
 <img align="right" src="https://github.com/omarmaher0/omarmaher0/blob/main/man-uploading-data.png" width="200" alt="Data Engineer">
-<p style="font-size: 28px; font-weight: bold;">Welcome to Omar Oun's Profile! ⚙️</p>
-<em>Every day is a data flow ⛓️</em>
+<p align="center" style="font-size: 28px; font-weight: bold;">
+  Welcome to Omar Oun's Profile! ⚙️
+</p>
+
+<p align="center">
+  <em style="font-size: 20px;">Every day is a data flow ⛓️</em>
+</p>
+
 
 
 💡 Discovered a passion for **Data Engineering** during my graduation project after encountering challenges with incomplete datasets...
