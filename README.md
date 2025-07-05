@@ -1,6 +1,6 @@
 <!-- Right-Aligned Image -->
 <p align="right">
-  <img src="https://assets.iconscout.com/illustrations/thumb/data-engineer-illustration-4094787-3406455.png" alt="Data Engineer" width="250"/>
+  <img src="https://github.com/omarmaher0/omarmaher0/blob/main/man-uploading-data.png" alt="Data Engineer" width="250"/>
 </p>
 
 <h1 align="center">Welcome to Omar Oun's Profile! ⚙️</h1>
