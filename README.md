@@ -1,6 +1,6 @@
 <!-- Right-Aligned Image -->
 <p align="right">
-  <img src="https://cdn.dribbble.com/users/134049/screenshots/16258480/media/0d9090dd5a5359cfd0c1f0efb65330a3.png" alt="Data Engineer" width="200"/>
+  <img src="https://assets.iconscout.com/illustrations/thumb/data-engineer-illustration-4094787-3406455.png" alt="Data Engineer" width="250"/>
 </p>
 
 <h1 align="center">Welcome to Omar Oun's Profile! ⚙️</h1>
