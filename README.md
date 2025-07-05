@@ -1,50 +1,59 @@
+<h1 align="center">Welcome to Omar Oun's Profile! ⚙️</h1>
 
-<img width="250" align="right" src="https://indoanalytica.com/static/images/data-science-2.gif">
+<h3 align="center"><em>Every day is a data flow ⛓️</em></h3>
 
-<h3 align="center">
-  Welcome to Omar Oun's profile!
-  <img src="https://cdn-icons-png.flaticon.com/512/2821/2821637.png" width="28">
-</h3>
+---
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=%20Marketing%20Data%20Scientist;%20Every%20Day%20is%20a%20learning%20day&font=Fira%20Code&center=true&width=440&height=45&color=ecb306&vCenter=true&size=22"></a>
-</p> 
+💡 Discovered a passion for **data engineering** during my graduation project after encountering challenges with incomplete datasets. That experience sparked my mission: **to support data teams by building reliable and well-structured data pipelines**.
 
-- 📊 I'm a data scientist
-- 👨🏻‍💻 As a CS student, I'm constantly learning and exploring new technologies.
-- 🧠 I have some soft skills such as Time management, searching, and talking with people.
-- 💬 Ask me about my experience with Python, Power BI, and SQL, or anything related to data scientist.
-- 💪 Fun Fact: I'm enjoying taking care of my body in training or eating healthy food.
-- 👨‍💻 Check out my portfolio at https://omarmaher0.github.io/omarmaherr/ to see some of the projects I've worked on.
+🎓 As a CS student, I'm diving deep into the world of big data, cloud computing, and real-time processing.
 
+🔧 My work focuses on:
+- Designing & building **ETL/ELT pipelines**
+- Working with **streaming data** using Kafka
+- Leveraging **cloud tools** like AWS (Glue, Lambda, Athena, S3)
+- Managing large-scale data using **Apache Spark** and **Airflow**
 
-### Connect with Me :
+🧠 I also have strong soft skills like problem-solving, time management, and effective communication.
 
-<a href="https://www.linkedin.com/in/omarmaher0" target="_blank"><img src="https://img.shields.io/badge/-Omar%20Oun-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+💬 Ask me about:
+- PySpark, SQL, Airflow, Kafka, MongoDB, AWS
+- Building real-time and batch processing systems
 
-### 🛠 &nbsp;Tech Skills
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
-![SQL](https://img.shields.io/badge/-MYSQL-05122A?style=flat&logo=SQL)&nbsp;
-![Bash](https://img.shields.io/badge/-DL-05122A?style=flat&logo=Bash)&nbsp;
-![C++](https://img.shields.io/badge/-DL-05122A?style=flat&logo=C++)&nbsp;
-![Machine Learning](https://img.shields.io/badge/-ML-05122A?style=flat&logo=ML)&nbsp;
-![Deep Learning](https://img.shields.io/badge/-DL-05122A?style=flat&logo=DL)&nbsp;
-![Natural Language Processing](https://img.shields.io/badge/-NLP-05122A?style=flat&logo=NLP)&nbsp;
-![Data Visualization](https://img.shields.io/badge/-Visualization-05122A?style=flat&logo=PowerBI)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
-![Apache Airflow](https://img.shields.io/badge/-Airflow-05122A?style=flat&logo=Apache_Airflow)&nbsp;
-![spark](https://img.shields.io/badge/-Spark-05122A?style=flat&logo=Apache_Spark)&nbsp;
-![Apache Hive](https://img.shields.io/badge/-Hive-05122A?style=flat&logo=Apache_Hive)&nbsp;
-![ETL](https://img.shields.io/badge/-ETL-05122A?style=flat&logo=ETL)&nbsp;
-![DWH](https://img.shields.io/badge/-DWH-05122A?style=flat&logo=DWH)&nbsp;
-![webscrapping](https://img.shields.io/badge/-webscrapping-05122A?style=flat&logo=Webscrapping)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+💪 Fun Fact: When I’m not building data pipelines, I’m training at the gym or enjoying healthy food.
 
+🌐 Check out my portfolio: [https://omarmaher0.github.io/omarmaherr/](https://omarmaher0.github.io/omarmaherr/)
 
+---
 
-### Follow Me :
+### 🔗 Connect with me:
 
-<a href="https://www.youtube.com/@brefat" target="_blank"><img src="https://img.shields.io/badge/-Brefat-0077B5?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+[![LinkedIn](https://img.shields.io/badge/Omar%20Oun-LinkedIn-blue)](https://www.linkedin.com/in/YOUR-LINK)
 
+---
+
+### 🛠️ Tech Skills:
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-informational?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)
+![Airflow](https://img.shields.io/badge/-Airflow-darkblue?style=flat-square&logo=apache-airflow)
+![Spark](https://img.shields.io/badge/-Spark-orange?style=flat-square&logo=apachespark)
+![Kafka](https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=apachekafka)
+![ETL](https://img.shields.io/badge/-ETL-blue?style=flat-square)
+![AWS](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazonaws)
+![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![Git](https://img.shields.io/badge/-Git-red?style=flat-square&logo=git)
+
+---
+
+### 🚀 Featured Projects
+
+- 🛒 **E-commerce Orders ETL with PySpark** – end-to-end pipeline
+- 🚕 **NYC Taxi Data Analysis** – big data analysis and dashboards
+- ☁️ **AWS Glue + Athena Project** – serverless data pipeline
+
+---
+
+> 📫 Ready to collaborate, contribute or build something awesome in data? Let’s connect!
